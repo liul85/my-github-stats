@@ -66,17 +66,17 @@
 |  5 | [krpano_demo](https://github.com/wangwii/krpano_demo)                                           | 2014-07-26 | 2014-07-26 | [1](https://github.com/wangwii/krpano_demo/pulls?q=is%3Apr+author%3Aliul85)                       |
 
 ## The repos I stared (random 10)
-| ID |                                                        REPO                                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|--------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [react-native-lesson](https://github.com/vczero/react-native-lesson)                                               | 2016-02-18 | HTML       | 2021-04-05   |
-|  2 | [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) | 2018-02-20 | md         | 2021-04-09   |
-|  3 | [what-happens-when](https://github.com/alex/what-happens-when)                                                     | 2017-07-30 | md         | 2021-04-09   |
-|  4 | [test-infra](https://github.com/kubernetes/test-infra)                                                             | 2020-04-12 | Go         | 2021-04-09   |
-|  5 | [fiber](https://github.com/gofiber/fiber)                                                                          | 2020-10-19 | Go         | 2021-04-09   |
-|  6 | [riot](https://github.com/go-ego/riot)                                                                             | 2017-10-26 | Go         | 2021-04-08   |
-|  7 | [ts-node](https://github.com/TypeStrong/ts-node)                                                                   | 2017-07-07 | TypeScript | 2021-04-09   |
-|  8 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)                          | 2017-08-26 | md         | 2021-04-09   |
-|  9 | [react-hooks](https://github.com/kentcdodds/react-hooks)                                                           | 2020-11-10 | JavaScript | 2021-04-08   |
-| 10 | [hosts](https://github.com/kelthuzadx/hosts)                                                                       | 2016-07-06 | Rascal     | 2021-04-09   |
+| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)                     | 2017-12-21 | Vue        | 2021-04-09   |
+|  2 | [hover](https://github.com/go-flutter-desktop/hover)                                                  | 2020-04-28 | Go         | 2021-04-09   |
+|  3 | [serverless-plugin-warmup](https://github.com/juanjoDiaz/serverless-plugin-warmup)                    | 2018-08-15 | JavaScript | 2021-04-04   |
+|  4 | [ChinaDNS](https://github.com/shadowsocks/ChinaDNS)                                                   | 2016-06-14 | C          | 2021-04-09   |
+|  5 | [sealos](https://github.com/fanux/sealos)                                                             | 2020-03-26 | Go         | 2021-04-10   |
+|  6 | [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)                           | 2016-10-31 | md         | 2021-04-09   |
+|  7 | [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) | 2021-04-06 | CSS        | 2021-04-09   |
+|  8 | [vim-anywhere](https://github.com/cknadler/vim-anywhere)                                              | 2018-02-19 | Shell      | 2021-04-09   |
+|  9 | [habitica](https://github.com/HabitRPG/habitica)                                                      | 2017-01-20 | JavaScript | 2021-04-09   |
+| 10 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                           | 2017-07-08 | Ruby       | 2021-04-09   |
 
 <!--END_SECTION:my_github-->
