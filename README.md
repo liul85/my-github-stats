@@ -32,7 +32,7 @@
 | 27 | [liul85.me](https://github.com/liul85/liul85.me)                                       | 2016-10-09 | 2016-10-09 | CSS        |     0 |
 | 28 | [manifest](https://github.com/liul85/manifest)                                         | 2014-07-10 | 2014-07-10 | md         |     0 |
 | 29 | [microblog](https://github.com/liul85/microblog)                                       | 2014-01-07 | 2014-01-08 | JavaScript |     0 |
-| 30 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2021-04-09 | md         |     0 |
+| 30 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2021-04-10 | md         |     0 |
 | 31 | [oobootcamp](https://github.com/liul85/oobootcamp)                                     | 2015-06-12 | 2015-06-12 | Java       |     0 |
 | 32 | [ParkingLot](https://github.com/liul85/ParkingLot)                                     | 2016-10-26 | 2016-10-26 | Java       |     0 |
 | 33 | [rack_homework](https://github.com/liul85/rack_homework)                               | 2014-09-11 | 2014-09-11 | Ruby       |     0 |
@@ -66,17 +66,17 @@
 |  5 | [krpano_demo](https://github.com/wangwii/krpano_demo)                                           | 2014-07-26 | 2014-07-26 | [1](https://github.com/wangwii/krpano_demo/pulls?q=is%3Apr+author%3Aliul85)                       |
 
 ## The repos I stared (random 10)
-| ID |                                                 REPO                                                  | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)                     | 2017-12-21 | Vue        | 2021-04-09   |
-|  2 | [hover](https://github.com/go-flutter-desktop/hover)                                                  | 2020-04-28 | Go         | 2021-04-09   |
-|  3 | [serverless-plugin-warmup](https://github.com/juanjoDiaz/serverless-plugin-warmup)                    | 2018-08-15 | JavaScript | 2021-04-04   |
-|  4 | [ChinaDNS](https://github.com/shadowsocks/ChinaDNS)                                                   | 2016-06-14 | C          | 2021-04-09   |
-|  5 | [sealos](https://github.com/fanux/sealos)                                                             | 2020-03-26 | Go         | 2021-04-10   |
-|  6 | [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)                           | 2016-10-31 | md         | 2021-04-09   |
-|  7 | [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) | 2021-04-06 | CSS        | 2021-04-09   |
-|  8 | [vim-anywhere](https://github.com/cknadler/vim-anywhere)                                              | 2018-02-19 | Shell      | 2021-04-09   |
-|  9 | [habitica](https://github.com/HabitRPG/habitica)                                                      | 2017-01-20 | JavaScript | 2021-04-09   |
-| 10 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                           | 2017-07-08 | Ruby       | 2021-04-09   |
+| ID |                                                        REPO                                                        | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [marp-vscode](https://github.com/marp-team/marp-vscode)                                                            | 2020-08-20 | TypeScript | 2021-04-10   |
+|  2 | [etcher](https://github.com/balena-io/etcher)                                                                      | 2017-10-18 | TypeScript | 2021-04-10   |
+|  3 | [coding-interview-university](https://github.com/jwasham/coding-interview-university)                              | 2017-12-21 | md         | 2021-04-11   |
+|  4 | [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) | 2018-02-20 | md         | 2021-04-10   |
+|  5 | [wttr.in](https://github.com/chubin/wttr.in)                                                                       | 2020-05-08 | Python     | 2021-04-10   |
+|  6 | [gitea](https://github.com/go-gitea/gitea)                                                                         | 2020-03-02 | Go         | 2021-04-11   |
+|  7 | [alacritty](https://github.com/alacritty/alacritty)                                                                | 2018-12-07 | Rust       | 2021-04-10   |
+|  8 | [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)                             | 2017-09-05 | md         | 2021-04-10   |
+|  9 | [Learning-SICP](https://github.com/DeathKing/Learning-SICP)                                                        | 2017-07-08 | Ruby       | 2021-04-10   |
+| 10 | [L-ink_Card](https://github.com/peng-zhihui/L-ink_Card)                                                            | 2020-06-24 | C          | 2021-04-11   |
 
 <!--END_SECTION:my_github-->
