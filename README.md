@@ -32,7 +32,7 @@
 | 27 | [liul85.me](https://github.com/liul85/liul85.me)                                       | 2016-10-09 | 2016-10-09 | CSS        |     0 |
 | 28 | [manifest](https://github.com/liul85/manifest)                                         | 2014-07-10 | 2014-07-10 | md         |     0 |
 | 29 | [microblog](https://github.com/liul85/microblog)                                       | 2014-01-07 | 2014-01-08 | JavaScript |     0 |
-| 30 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2021-06-01 | md         |     0 |
+| 30 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2021-07-01 | md         |     0 |
 | 31 | [oobootcamp](https://github.com/liul85/oobootcamp)                                     | 2015-06-12 | 2015-06-12 | Java       |     0 |
 | 32 | [ParkingLot](https://github.com/liul85/ParkingLot)                                     | 2016-10-26 | 2016-10-26 | Java       |     0 |
 | 33 | [rack_homework](https://github.com/liul85/rack_homework)                               | 2014-09-11 | 2014-09-11 | Ruby       |     0 |
@@ -61,23 +61,23 @@
 |----|-------------------------------------------------------------------------------------------------|------------|------------|---------------------------------------------------------------------------------------------------|
 |  1 | [daimaduan.com](https://github.com/DoubleCiti/daimaduan.com)                                    | 2015-09-25 | 2016-01-18 | [14](https://github.com/DoubleCiti/daimaduan.com/pulls?q=is%3Apr+author%3Aliul85)                 |
 |  2 | [jekyllcn](https://github.com/xcatliu/jekyllcn)                                                 | 2013-11-03 | 2013-11-04 | [2](https://github.com/xcatliu/jekyllcn/pulls?q=is%3Apr+author%3Aliul85)                          |
-|  3 | [patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) | 2021-03-13 | 2021-03-13 | [1](https://github.com/dreamhead/patterns-of-distributed-systems/pulls?q=is%3Apr+author%3Aliul85) |
-|  4 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)                           | 2018-05-23 | 2018-05-23 | [1](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Aliul85)           |
-|  5 | [GDG-Xian.github.io](https://github.com/GDG-Xian/GDG-Xian.github.io)                            | 2015-08-04 | 2015-08-04 | [1](https://github.com/GDG-Xian/GDG-Xian.github.io/pulls?q=is%3Apr+author%3Aliul85)               |
-|  6 | [krpano_demo](https://github.com/wangwii/krpano_demo)                                           | 2014-07-26 | 2014-07-26 | [1](https://github.com/wangwii/krpano_demo/pulls?q=is%3Apr+author%3Aliul85)                       |
+|  3 | [krpano_demo](https://github.com/wangwii/krpano_demo)                                           | 2014-07-26 | 2014-07-26 | [1](https://github.com/wangwii/krpano_demo/pulls?q=is%3Apr+author%3Aliul85)                       |
+|  4 | [patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) | 2021-03-13 | 2021-03-13 | [1](https://github.com/dreamhead/patterns-of-distributed-systems/pulls?q=is%3Apr+author%3Aliul85) |
+|  5 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)                           | 2018-05-23 | 2018-05-23 | [1](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Aliul85)           |
+|  6 | [GDG-Xian.github.io](https://github.com/GDG-Xian/GDG-Xian.github.io)                            | 2015-08-04 | 2015-08-04 | [1](https://github.com/GDG-Xian/GDG-Xian.github.io/pulls?q=is%3Apr+author%3Aliul85)               |
 
 ## The repos I stared (random 10)
-| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [rime-settings](https://github.com/wongdean/rime-settings)        | 2020-04-02 | Lua        | 2021-06-29   |
-|  2 | [remote-jobs](https://github.com/remoteintech/remote-jobs)        | 2019-03-23 | JavaScript | 2021-06-30   |
-|  3 | [wxrss](https://github.com/ellipse42/wxrss)                       | 2020-11-01 | md         | 2021-06-28   |
-|  4 | [act](https://github.com/nektos/act)                              | 2020-07-21 | Go         | 2021-06-30   |
-|  5 | [object-hash](https://github.com/puleos/object-hash)              | 2017-08-18 | JavaScript | 2021-06-30   |
-|  6 | [mackup](https://github.com/lra/mackup)                           | 2016-08-15 | Python     | 2021-06-30   |
-|  7 | [easegress](https://github.com/megaease/easegress)                | 2021-06-01 | Go         | 2021-06-30   |
-|  8 | [Gource](https://github.com/acaudwell/Gource)                     | 2018-06-08 | C++        | 2021-06-30   |
-|  9 | [awesome-dashboard](https://github.com/obazoud/awesome-dashboard) | 2017-01-08 | md         | 2021-06-30   |
-| 10 | [Numeral-js](https://github.com/adamwdraper/Numeral-js)           | 2016-12-26 | JavaScript | 2021-06-30   |
+| ID |                                         REPO                                         | STAREDDATE | LAUGUAGE | LATESTUPDATE |
+|----|--------------------------------------------------------------------------------------|------------|----------|--------------|
+|  1 | [acme.sh](https://github.com/acmesh-official/acme.sh)                                | 2016-10-06 | Shell    | 2021-07-31   |
+|  2 | [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)                     | 2018-08-13 | Shell    | 2021-08-01   |
+|  3 | [tig](https://github.com/jonas/tig)                                                  | 2017-08-14 | C        | 2021-07-31   |
+|  4 | [RxPY](https://github.com/ReactiveX/RxPY)                                            | 2015-12-04 | Python   | 2021-07-31   |
+|  5 | [sealos](https://github.com/fanux/sealos)                                            | 2020-03-26 | Go       | 2021-07-31   |
+|  6 | [Kingfisher](https://github.com/onevcat/Kingfisher)                                  | 2016-02-23 | Swift    | 2021-07-31   |
+|  7 | [computer-science](https://github.com/ossu/computer-science)                         | 2018-01-01 | md       | 2021-07-31   |
+|  8 | [athens](https://github.com/athensresearch/athens)                                   | 2021-03-04 | Clojure  | 2021-07-31   |
+|  9 | [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | 2019-09-28 | HTML     | 2021-07-31   |
+| 10 | [git-bug](https://github.com/MichaelMure/git-bug)                                    | 2020-04-12 | Go       | 2021-07-31   |
 
 <!--END_SECTION:my_github-->
