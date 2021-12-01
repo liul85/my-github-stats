@@ -6,7 +6,7 @@
 |  1 | [algorithms](https://github.com/liul85/algorithms)                                     | 2018-11-15 | 2018-12-12 | Java       |     0 |
 |  2 | [Autoscale-with-AWS--ECS](https://github.com/liul85/Autoscale-with-AWS--ECS)           | 2017-06-05 | 2017-06-05 | md         |     0 |
 |  3 | [backend-question-answers](https://github.com/liul85/backend-question-answers)         | 2018-02-24 | 2018-02-24 | md         |     0 |
-|  4 | [beancount-automation](https://github.com/liul85/beancount-automation)                 | 2021-09-07 | 2021-10-18 | Rust       |     0 |
+|  4 | [beancount-automation](https://github.com/liul85/beancount-automation)                 | 2021-09-07 | 2021-11-30 | Rust       |     0 |
 |  5 | [BlackJack_Score](https://github.com/liul85/BlackJack_Score)                           | 2014-07-23 | 2014-07-23 | Ruby       |     0 |
 |  6 | [bookcase](https://github.com/liul85/bookcase)                                         | 2015-12-29 | 2016-06-24 | CSS        |     0 |
 |  7 | [chache](https://github.com/liul85/chache)                                             | 2020-04-09 | 2020-04-12 | Go         |     0 |
@@ -31,16 +31,16 @@
 | 26 | [liul85.github.io](https://github.com/liul85/liul85.github.io)                         | 2021-10-02 | 2021-10-02 | HTML       |     0 |
 | 27 | [manifest](https://github.com/liul85/manifest)                                         | 2014-07-10 | 2014-07-10 | md         |     0 |
 | 28 | [microblog](https://github.com/liul85/microblog)                                       | 2014-01-07 | 2014-01-08 | JavaScript |     0 |
-| 29 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2021-10-01 | md         |     0 |
+| 29 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2021-11-01 | md         |     0 |
 | 30 | [oobootcamp](https://github.com/liul85/oobootcamp)                                     | 2015-06-12 | 2015-06-12 | Java       |     0 |
 | 31 | [ParkingLot](https://github.com/liul85/ParkingLot)                                     | 2016-10-26 | 2016-10-26 | Java       |     0 |
 | 32 | [rack_homework](https://github.com/liul85/rack_homework)                               | 2014-09-11 | 2014-09-11 | Ruby       |     0 |
 | 33 | [Reactivities](https://github.com/liul85/Reactivities)                                 | 2020-05-25 | 2020-06-26 | C#         |     0 |
-| 34 | [ReduxSimpleStarter](https://github.com/liul85/ReduxSimpleStarter)                     | 2017-05-08 | 2017-05-08 | JavaScript |     0 |
-| 35 | [refactoring](https://github.com/liul85/refactoring)                                   | 2016-11-13 | 2016-11-13 | Java       |     0 |
-| 36 | [resque-test](https://github.com/liul85/resque-test)                                   | 2016-06-07 | 2016-06-07 | Ruby       |     0 |
-| 37 | [revealJs](https://github.com/liul85/revealJs)                                         | 2016-06-13 | 2016-06-13 | JavaScript |     0 |
-| 38 | [rsssearch](https://github.com/liul85/rsssearch)                                       | 2017-09-12 | 2017-09-12 | Go         |     0 |
+| 34 | [refactoring](https://github.com/liul85/refactoring)                                   | 2016-11-13 | 2016-11-13 | Java       |     0 |
+| 35 | [resque-test](https://github.com/liul85/resque-test)                                   | 2016-06-07 | 2016-06-07 | Ruby       |     0 |
+| 36 | [revealJs](https://github.com/liul85/revealJs)                                         | 2016-06-13 | 2016-06-13 | JavaScript |     0 |
+| 37 | [rsssearch](https://github.com/liul85/rsssearch)                                       | 2017-09-12 | 2017-09-12 | Go         |     0 |
+| 38 | [rust-kv](https://github.com/liul85/rust-kv)                                           | 2021-11-20 | 2021-11-21 | Rust       |     0 |
 | 39 | [rustlings](https://github.com/liul85/rustlings)                                       | 2021-03-13 | 2021-03-20 | Rust       |     0 |
 | 40 | [sample_app](https://github.com/liul85/sample_app)                                     | 2014-07-11 | 2014-07-11 | Ruby       |     0 |
 | 41 | [servletDemo](https://github.com/liul85/servletDemo)                                   | 2015-07-09 | 2015-07-09 | Java       |     0 |
@@ -61,23 +61,24 @@
 |----|-------------------------------------------------------------------------------------------------|------------|------------|---------------------------------------------------------------------------------------------------|
 |  1 | [daimaduan.com](https://github.com/DoubleCiti/daimaduan.com)                                    | 2015-09-25 | 2016-01-18 | [14](https://github.com/DoubleCiti/daimaduan.com/pulls?q=is%3Apr+author%3Aliul85)                 |
 |  2 | [jekyllcn](https://github.com/xcatliu/jekyllcn)                                                 | 2013-11-03 | 2013-11-04 | [2](https://github.com/xcatliu/jekyllcn/pulls?q=is%3Apr+author%3Aliul85)                          |
-|  3 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)                           | 2018-05-23 | 2018-05-23 | [1](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Aliul85)           |
-|  4 | [GDG-Xian.github.io](https://github.com/GDG-Xian/GDG-Xian.github.io)                            | 2015-08-04 | 2015-08-04 | [1](https://github.com/GDG-Xian/GDG-Xian.github.io/pulls?q=is%3Apr+author%3Aliul85)               |
-|  5 | [krpano_demo](https://github.com/wangwii/krpano_demo)                                           | 2014-07-26 | 2014-07-26 | [1](https://github.com/wangwii/krpano_demo/pulls?q=is%3Apr+author%3Aliul85)                       |
-|  6 | [patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) | 2021-03-13 | 2021-03-13 | [1](https://github.com/dreamhead/patterns-of-distributed-systems/pulls?q=is%3Apr+author%3Aliul85) |
+|  3 | [krpano_demo](https://github.com/wangwii/krpano_demo)                                           | 2014-07-26 | 2014-07-26 | [1](https://github.com/wangwii/krpano_demo/pulls?q=is%3Apr+author%3Aliul85)                       |
+|  4 | [dalian-IT](https://github.com/yihong0618/dalian-IT)                                            | 2021-11-15 | 2021-11-15 | [1](https://github.com/yihong0618/dalian-IT/pulls?q=is%3Apr+author%3Aliul85)                      |
+|  5 | [patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) | 2021-03-13 | 2021-03-13 | [1](https://github.com/dreamhead/patterns-of-distributed-systems/pulls?q=is%3Apr+author%3Aliul85) |
+|  6 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)                           | 2018-05-23 | 2018-05-23 | [1](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Aliul85)           |
+|  7 | [GDG-Xian.github.io](https://github.com/GDG-Xian/GDG-Xian.github.io)                            | 2015-08-04 | 2015-08-04 | [1](https://github.com/GDG-Xian/GDG-Xian.github.io/pulls?q=is%3Apr+author%3Aliul85)               |
 
 ## The repos I stared (random 10)
-| ID |                                           REPO                                           | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
-|----|------------------------------------------------------------------------------------------|------------|------------------|--------------|
-|  1 | [awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)           | 2016-01-11 | md               | 2021-09-21   |
-|  2 | [ctags](https://github.com/universal-ctags/ctags)                                        | 2018-04-11 | C                | 2021-11-01   |
-|  3 | [book](https://github.com/SystemsApproach/book)                                          | 2021-04-06 | Python           | 2021-10-30   |
-|  4 | [awesome-database-learning](https://github.com/pingcap/awesome-database-learning)        | 2020-02-12 | md               | 2021-11-01   |
-|  5 | [Numeral-js](https://github.com/adamwdraper/Numeral-js)                                  | 2016-12-26 | JavaScript       | 2021-10-31   |
-|  6 | [awesome-go](https://github.com/avelino/awesome-go)                                      | 2015-12-14 | Go               | 2021-11-01   |
-|  7 | [object-hash](https://github.com/puleos/object-hash)                                     | 2017-08-18 | JavaScript       | 2021-10-31   |
-|  8 | [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)   | 2020-11-01 | Jupyter Notebook | 2021-10-31   |
-|  9 | [free-for-dev](https://github.com/ripienaar/free-for-dev)                                | 2020-01-09 | HTML             | 2021-11-01   |
-| 10 | [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutter-Course-Resources) | 2020-04-12 | md               | 2021-11-01   |
+| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [excalidraw](https://github.com/excalidraw/excalidraw)                                        | 2021-04-01 | TypeScript | 2021-12-01   |
+|  2 | [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 2019-02-20 | md         | 2021-11-30   |
+|  3 | [JavaScript30](https://github.com/wesbos/JavaScript30)                                        | 2016-12-12 | HTML       | 2021-11-30   |
+|  4 | [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)                      | 2018-03-02 | JavaScript | 2021-11-30   |
+|  5 | [under-the-hood](https://github.com/golang-design/under-the-hood)                             | 2020-03-02 | Go         | 2021-11-30   |
+|  6 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                                               | 2018-03-15 | Java       | 2021-11-30   |
+|  7 | [gopher-reading-list](https://github.com/enocom/gopher-reading-list)                          | 2018-03-02 | md         | 2021-11-30   |
+|  8 | [lkmpg](https://github.com/sysprog21/lkmpg)                                                   | 2021-08-24 | TeX        | 2021-11-30   |
+|  9 | [intl-tel-input](https://github.com/jackocnr/intl-tel-input)                                  | 2016-01-08 | JavaScript | 2021-11-30   |
+| 10 | [solr-node-client](https://github.com/lbdremy/solr-node-client)                               | 2018-05-23 | TypeScript | 2021-11-05   |
 
 <!--END_SECTION:my_github-->
