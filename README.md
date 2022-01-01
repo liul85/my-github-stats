@@ -6,7 +6,7 @@
 |  1 | [algorithms](https://github.com/liul85/algorithms)                                     | 2018-11-15 | 2018-12-12 | Java       |     0 |
 |  2 | [Autoscale-with-AWS--ECS](https://github.com/liul85/Autoscale-with-AWS--ECS)           | 2017-06-05 | 2017-06-05 | md         |     0 |
 |  3 | [backend-question-answers](https://github.com/liul85/backend-question-answers)         | 2018-02-24 | 2018-02-24 | md         |     0 |
-|  4 | [beancount-automation](https://github.com/liul85/beancount-automation)                 | 2021-09-07 | 2021-11-30 | Rust       |     0 |
+|  4 | [beancount-automation](https://github.com/liul85/beancount-automation)                 | 2021-09-07 | 2022-01-01 | Rust       |     0 |
 |  5 | [BlackJack_Score](https://github.com/liul85/BlackJack_Score)                           | 2014-07-23 | 2014-07-23 | Ruby       |     0 |
 |  6 | [bookcase](https://github.com/liul85/bookcase)                                         | 2015-12-29 | 2016-06-24 | CSS        |     0 |
 |  7 | [chache](https://github.com/liul85/chache)                                             | 2020-04-09 | 2020-04-12 | Go         |     0 |
@@ -31,7 +31,7 @@
 | 26 | [liul85.github.io](https://github.com/liul85/liul85.github.io)                         | 2021-10-02 | 2021-10-02 | HTML       |     0 |
 | 27 | [manifest](https://github.com/liul85/manifest)                                         | 2014-07-10 | 2014-07-10 | md         |     0 |
 | 28 | [microblog](https://github.com/liul85/microblog)                                       | 2014-01-07 | 2014-01-08 | JavaScript |     0 |
-| 29 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2021-11-01 | md         |     0 |
+| 29 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2021-12-01 | md         |     0 |
 | 30 | [oobootcamp](https://github.com/liul85/oobootcamp)                                     | 2015-06-12 | 2015-06-12 | Java       |     0 |
 | 31 | [ParkingLot](https://github.com/liul85/ParkingLot)                                     | 2016-10-26 | 2016-10-26 | Java       |     0 |
 | 32 | [rack_homework](https://github.com/liul85/rack_homework)                               | 2014-09-11 | 2014-09-11 | Ruby       |     0 |
@@ -68,17 +68,17 @@
 |  7 | [GDG-Xian.github.io](https://github.com/GDG-Xian/GDG-Xian.github.io)                            | 2015-08-04 | 2015-08-04 | [1](https://github.com/GDG-Xian/GDG-Xian.github.io/pulls?q=is%3Apr+author%3Aliul85)               |
 
 ## The repos I stared (random 10)
-| ID |                                             REPO                                              | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|-----------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [excalidraw](https://github.com/excalidraw/excalidraw)                                        | 2021-04-01 | TypeScript | 2021-12-01   |
-|  2 | [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 2019-02-20 | md         | 2021-11-30   |
-|  3 | [JavaScript30](https://github.com/wesbos/JavaScript30)                                        | 2016-12-12 | HTML       | 2021-11-30   |
-|  4 | [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)                      | 2018-03-02 | JavaScript | 2021-11-30   |
-|  5 | [under-the-hood](https://github.com/golang-design/under-the-hood)                             | 2020-03-02 | Go         | 2021-11-30   |
-|  6 | [CS-Notes](https://github.com/CyC2018/CS-Notes)                                               | 2018-03-15 | Java       | 2021-11-30   |
-|  7 | [gopher-reading-list](https://github.com/enocom/gopher-reading-list)                          | 2018-03-02 | md         | 2021-11-30   |
-|  8 | [lkmpg](https://github.com/sysprog21/lkmpg)                                                   | 2021-08-24 | TeX        | 2021-11-30   |
-|  9 | [intl-tel-input](https://github.com/jackocnr/intl-tel-input)                                  | 2016-01-08 | JavaScript | 2021-11-30   |
-| 10 | [solr-node-client](https://github.com/lbdremy/solr-node-client)                               | 2018-05-23 | TypeScript | 2021-11-05   |
+| ID |                                                  REPO                                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|---------------------------------------------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [chromeless](https://github.com/prisma-archive/chromeless)                                              | 2017-07-30 | TypeScript | 2021-12-30   |
+|  2 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)                                                           | 2017-07-08 | Shell      | 2022-01-01   |
+|  3 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns)                                | 2017-09-01 | Java       | 2021-12-31   |
+|  4 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)               | 2017-08-26 | md         | 2021-12-31   |
+|  5 | [aws-sam-cli](https://github.com/aws/aws-sam-cli)                                                       | 2017-08-13 | Python     | 2021-12-30   |
+|  6 | [follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) | 2017-05-08 | Shell      | 2021-12-31   |
+|  7 | [archinstall](https://github.com/archlinux/archinstall)                                                 | 2021-04-21 | Python     | 2021-12-31   |
+|  8 | [overreacted.io](https://github.com/gaearon/overreacted.io)                                             | 2020-01-05 | JavaScript | 2021-12-31   |
+|  9 | [newsboat](https://github.com/newsboat/newsboat)                                                        | 2021-02-01 | C++        | 2021-12-31   |
+| 10 | [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)                             | 2018-01-27 | md         | 2022-01-01   |
 
 <!--END_SECTION:my_github-->
