@@ -28,10 +28,10 @@
 | 23 | [httpie-rust](https://github.com/liul85/httpie-rust)                                   | 2021-08-31 | 2021-09-05 | Rust       |     0 |
 | 24 | [k8s-custom-resource-network](https://github.com/liul85/k8s-custom-resource-network)   | 2020-08-20 | 2020-08-20 | Go         |     0 |
 | 25 | [kubernetes-101](https://github.com/liul85/kubernetes-101)                             | 2019-05-27 | 2020-03-09 | JavaScript |     0 |
-| 26 | [liul85.github.io](https://github.com/liul85/liul85.github.io)                         | 2021-10-02 | 2021-10-02 | HTML       |     0 |
+| 26 | [liul85.github.io](https://github.com/liul85/liul85.github.io)                         | 2021-10-02 | 2022-01-02 | HTML       |     0 |
 | 27 | [manifest](https://github.com/liul85/manifest)                                         | 2014-07-10 | 2014-07-10 | md         |     0 |
 | 28 | [microblog](https://github.com/liul85/microblog)                                       | 2014-01-07 | 2014-01-08 | JavaScript |     0 |
-| 29 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2021-12-01 | md         |     0 |
+| 29 | [my-github-stats](https://github.com/liul85/my-github-stats)                           | 2021-04-09 | 2022-01-01 | md         |     0 |
 | 30 | [oobootcamp](https://github.com/liul85/oobootcamp)                                     | 2015-06-12 | 2015-06-12 | Java       |     0 |
 | 31 | [ParkingLot](https://github.com/liul85/ParkingLot)                                     | 2016-10-26 | 2016-10-26 | Java       |     0 |
 | 32 | [rack_homework](https://github.com/liul85/rack_homework)                               | 2014-09-11 | 2014-09-11 | Ruby       |     0 |
@@ -68,17 +68,17 @@
 |  7 | [GDG-Xian.github.io](https://github.com/GDG-Xian/GDG-Xian.github.io)                            | 2015-08-04 | 2015-08-04 | [1](https://github.com/GDG-Xian/GDG-Xian.github.io/pulls?q=is%3Apr+author%3Aliul85)               |
 
 ## The repos I stared (random 10)
-| ID |                                                  REPO                                                   | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [chromeless](https://github.com/prisma-archive/chromeless)                                              | 2017-07-30 | TypeScript | 2021-12-30   |
-|  2 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)                                                           | 2017-07-08 | Shell      | 2022-01-01   |
-|  3 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns)                                | 2017-09-01 | Java       | 2021-12-31   |
-|  4 | [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)               | 2017-08-26 | md         | 2021-12-31   |
-|  5 | [aws-sam-cli](https://github.com/aws/aws-sam-cli)                                                       | 2017-08-13 | Python     | 2021-12-30   |
-|  6 | [follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) | 2017-05-08 | Shell      | 2021-12-31   |
-|  7 | [archinstall](https://github.com/archlinux/archinstall)                                                 | 2021-04-21 | Python     | 2021-12-31   |
-|  8 | [overreacted.io](https://github.com/gaearon/overreacted.io)                                             | 2020-01-05 | JavaScript | 2021-12-31   |
-|  9 | [newsboat](https://github.com/newsboat/newsboat)                                                        | 2021-02-01 | C++        | 2021-12-31   |
-| 10 | [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)                             | 2018-01-27 | md         | 2022-01-01   |
+| ID |                                     REPO                                      | STAREDDATE |     LAUGUAGE     | LATESTUPDATE |
+|----|-------------------------------------------------------------------------------|------------|------------------|--------------|
+|  1 | [kops](https://github.com/kubernetes/kops)                                    | 2020-03-26 | Go               | 2022-01-31   |
+|  2 | [legacy-homebrew](https://github.com/Homebrew/legacy-homebrew)                | 2015-10-01 | md               | 2022-01-31   |
+|  3 | [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)     | 2017-03-26 | JavaScript       | 2022-01-31   |
+|  4 | [Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) | 2019-09-15 | md               | 2022-02-01   |
+|  5 | [RxDocs](https://github.com/mcxiaoke/RxDocs)                                  | 2015-09-01 | md               | 2022-01-26   |
+|  6 | [100days](https://github.com/coells/100days)                                  | 2017-07-15 | Jupyter Notebook | 2022-01-31   |
+|  7 | [lxcfs](https://github.com/lxc/lxcfs)                                         | 2020-08-07 | C                | 2022-01-30   |
+|  8 | [statping](https://github.com/statping/statping)                              | 2020-02-23 | Vue              | 2022-01-31   |
+|  9 | [excalidraw](https://github.com/excalidraw/excalidraw)                        | 2021-04-01 | TypeScript       | 2022-01-31   |
+| 10 | [k8s-on-raspbian](https://github.com/alexellis/k8s-on-raspbian)               | 2019-09-09 | Shell            | 2022-01-25   |
 
 <!--END_SECTION:my_github-->
